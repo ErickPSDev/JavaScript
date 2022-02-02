@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+img {
+    width: 20%;
+}
+
+#img {
+    width: 15%;
+}
+
+thead {
+    background-color: cadetblue;
+}
+
+tfoot {
+    background-color: azure;
+}
+
+tr{
+    border-bottom: none;
+    border-bottom: solid;
+    border-color: black;
+}
